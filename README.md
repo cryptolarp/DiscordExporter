@@ -22,6 +22,3 @@ A modern, dark-themed GUI application that lets you export messages from any Dis
 ### Steps
 1. Install the required libraries from requirments.txt
 2. Download and run DiscordExporter.pyw from [here.](release)
-
-
--# this project is fully open source, your token is stored LOCALLY, your account is safe.
